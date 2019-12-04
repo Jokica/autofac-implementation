@@ -1,0 +1,14 @@
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\bin\Debug\netcoreapp2.1\fac.deps.json
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\bin\Debug\netcoreapp2.1\fac.runtimeconfig.json
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\bin\Debug\netcoreapp2.1\fac.runtimeconfig.dev.json
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\bin\Debug\netcoreapp2.1\fac.dll
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\bin\Debug\netcoreapp2.1\DemoLibrary.dll
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\bin\Debug\netcoreapp2.1\DemoLibrary.pdb
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\obj\Debug\netcoreapp2.1\fac.csprojAssemblyReference.cache
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\obj\Debug\netcoreapp2.1\fac.csproj.CoreCompileInputs.cache
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\obj\Debug\netcoreapp2.1\fac.AssemblyInfoInputs.cache
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\obj\Debug\netcoreapp2.1\fac.AssemblyInfo.cs
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\obj\Debug\netcoreapp2.1\fac.csproj.CopyComplete
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\bin\Debug\netcoreapp2.1\fac.pdb
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\obj\Debug\netcoreapp2.1\fac.dll
+C:\Users\Jovan Gjorgjiev\source\repos\Autofac\Autofac\obj\Debug\netcoreapp2.1\fac.pdb
